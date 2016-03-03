@@ -1,0 +1,28 @@
+name: Trial1
+favicon: null
+layout_spectrum: 0.38665646756999195
+typography_spectrum: 0.2084447080269456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8416315985377878
+  lightness: 0.1453472995199263
+  saturation: 0.0318631783593446
+  rhythmicContrast: 0.22473198850639164
+purpose: []
